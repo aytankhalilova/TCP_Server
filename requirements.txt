@@ -1,0 +1,13 @@
+html5lib==1.1
+idna==2.10
+requests==2.25.0
+six==1.15.0
+beautifulsoup4==4.9.3
+certifi==2020.11.8
+chardet==3.0.4
+colorama==0.4.4soupsieve==2.0.1
+urllib3==1.26.2
+docopt==0.6.2
+enum34==1.1.10
+futures==3.3.0
+webencodings==0.5.1
