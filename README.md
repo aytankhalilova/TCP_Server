@@ -15,7 +15,7 @@ the number of pictures and the number of the leaf paragraphs. The leaf paragraph
  # Usage
  For server and client, open 2 terminal tabs and run the following commands:
  * Server Terminal:<br />
-      python3 web_scraper.py <br />
+      python3 web_scraper.py server<br />
  
  * Client Terminal: <br />
       python3 web_scraper.py client -p [URL]
